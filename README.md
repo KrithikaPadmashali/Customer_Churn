@@ -24,8 +24,8 @@ To accurately predict whether a customer will churn, helping telecom providers t
 | Model                        | Accuracy |
 |-----------------------------|----------|
 | Random Forest               | **94%**  |
-| XGBoost                     | ~91%     |
-| Gradient Boosting           | ~90%     |
+| XGBoost                     | ~90%     |
+| Gradient Boosting           | ~82%     |
 | Neural Network (Keras/TensorFlow) | 78%  |
 
 Ensemble models outperformed the neural network on this structured dataset.
